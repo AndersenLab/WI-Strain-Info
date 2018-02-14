@@ -12,7 +12,7 @@ commit_files() {
     git commit --message "Travis build: ${TRAVIS_BUILD_NUMBER}"
     git remote add origin https://${GH_TOKEN}@github.com/WI-Strain-Info/resources.git > /dev/null 2>&1
     if [[ $? -eq 0 ]]; then
-        git push --quiet --set-upstream origin master
+        git push --set-upstream origin master
     fi;
 }
 
