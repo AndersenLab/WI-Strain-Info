@@ -4,6 +4,8 @@ setup_git() {
   git config --global user.email "travis@travis-ci.org"
   git config --global user.name "Travis CI"
   git config --global github.token ${GH_TOKEN}
+  git config credential.helper "store --file=.git/credentials"
+  echo "https://${GH_TOKEN}:@github.com" > .git/credentials
 }
 
 commit_files() {
@@ -13,7 +15,7 @@ commit_files() {
     ls *
     pwd
     ls -lah
-    git add . WI-Strain-Info.tsv
+    git add WI-Strain-Info.tsv
     git remote add origin https://${GH_TOKEN}@github.com/WI-Strain-Info/resources.git > /dev/null 2>&1
     git commit --message "Travis build: ${TRAVIS_BUILD_NUMBER}"
     if [[ $? -eq 0 ]]; then
