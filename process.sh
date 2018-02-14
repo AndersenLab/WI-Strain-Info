@@ -11,7 +11,7 @@ commit_files() {
     git add WI-Strain-Info.tsv
     git commit --message "Travis build: ${TRAVIS_BUILD_NUMBER}"
     if [[ $? -eq 0 ]]; then
-        git push --quiet
+        git push --quiet --set-upstream origin master
     fi;
 }
 
