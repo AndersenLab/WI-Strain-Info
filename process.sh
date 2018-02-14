@@ -10,6 +10,7 @@ commit_files() {
     curl https://docs.google.com/spreadsheets/d/1V6YHzblaDph01sFDI8YK_fP0H7sVebHQTXypGdiQIjI/export?format=tsv&id=1V6YHzblaDph01sFDI8YK_fP0H7sVebHQTXypGdiQIjI&gid=0 > WI-Strain-Info.tsv
     git add WI-Strain-Info.tsv
     git commit --message "Travis build: ${TRAVIS_BUILD_NUMBER}"
+    git remote add origin https://${GH_TOKEN}@github.com/WI-Strain-Info/resources.git > /dev/null 2>&1
     if [[ $? -eq 0 ]]; then
         git push --quiet --set-upstream origin master
     fi;
