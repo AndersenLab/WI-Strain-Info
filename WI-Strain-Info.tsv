@@ -1,5 +1,5 @@
 strain	reference_strain	isotype	previous_names	sequenced	warning_message	release	source_lab	collection_group	c_label	s_label	latitude	longitude	landscape	substrate	substrate_comment	substrate_temp	ambient_temp	substrate_moisture	ambient_humidity	photo	isolated_by	sampled_by	isolation_date	isolation_date_comment	notes	state	country	set_divergent	set_1	set_2	set_3	set_4
-AB1	0	AB1	NA	1		20160408	CGC				-34.93	138.59	NA	Soil	soil under rotting vegetation					NA	D. Riddle & A. Bird	D. Riddle & A. Bird	1983-01-01	only year (1983) is known	Tc1 pattern VII	South Australia	Australia			TRUE		
+AB1	1	AB1	NA	1		20160408	CGC				-34.93	138.59	NA	Soil	soil under rotting vegetation					NA	D. Riddle & A. Bird	D. Riddle & A. Bird	1983-01-01	only year (1983) is known	Tc1 pattern VII	South Australia	Australia			TRUE		
 BRC20067	1	BRC20067	NA	1		20160408	BRC				24.072954	121.169736	NA	Fruit	unknown orangish-yellowish colored fruit					NA	C.-Y. Kao	J. Wang	2012-01-13	NA	NA	Taiwan Province	Taiwan		TRUE			
 BRC20113	0	BRC20067	NA	1		20170531	BRC				24.124167	121.283056	NA	Fruit	fruit					NA	NA	NA	2014-05-09	NA	NA	Taiwan Province	Taiwan					
 BRC20263	1	BRC20263	NA	1		20170531	BRC				-33.86748611	151.2069889	NA	NA	NA					NA	NA	Sylvia & Volans	2014-08-04	NA	NA	New South Wales	Australia					
