@@ -1,4 +1,4 @@
-# WI-Strain-Info
+# C. elegans Wild Isolate Strain Info
 
 [![Build Status](https://travis-ci.org/AndersenLab/WI-Strain-Info.svg?branch=master)](https://travis-ci.org/AndersenLab/WI-Strain-Info)
 
