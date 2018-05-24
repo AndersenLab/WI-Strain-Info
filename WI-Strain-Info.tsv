@@ -20,7 +20,7 @@ CX11278	0	CB4858	HEY-009	0		20160408	CX				34.13531	-118.30582	Urban garden	Soil
 CX11305	0	CB4858	HEY-004	0		20160408	CX				34.13531	-118.30582	Urban garden	Soil	soil					NA	A. Sivasundar	A. Sivasundar	2003-09-01	exact location in park is unknown	isolated in Griffith Park	California	United States						
 CX11317	0	CB4858	HEY-042	0		20160408	CX				34.13531	-118.30582	Urban garden	Soil	soil					NA	A. Sivasundar	A. Sivasundar	2003-09-01	exact location in park is unknown	isolated in Griffith Park	California	United States						
 ECA247	0	CB4858	CB4855 (CGC)|CB4855_CGC|Cal-5|Sta-5	0		20160408	CGC				37.43	-122.13	Urban garden	Compost	compost heap					NA	NA	T. Doniach	1982-01-01	only year (1982) is known	Low copy Tc1, pattern VI	California	United States						
-JU1960	0	CB4858	NA	1		20170531	JU				34.18973	-118.131319	Urban garden	Compost	compost in the same garden in Altadena as PS2025					NA	J. DeModena	J. DeModena	2008-11-30		NA	California	United States						
+JU1960	0	CB4858	NA	1		20170531	JU				34.18973	-118.131319	Urban garden	Compost	compost in the same garden in Altadena as PS2025					NA	J. DeModena	J. DeModena	2008-11-30		NA	#NAME?	#NAME?						
 CX11294	0	CX11262	HEY-027	0		20160408	CX				34.12946	-118.10987	Urban garden	Soil	soil					NA	A. Sivasundar	A. Sivasundar	2003-09-01	exact location in garden is unknown	isolated in Huntington Gardens	California	United States						
 CX11319	0	CX11271	HEY-055	0		20160408	CX				34.13712	-118.12532	Urban garden	Soil	soil					NA	A. Sivasundar	A. Sivasundar	2003-09-01	exact location is unknown	isolated at California Institue of Technology	California	United States						
 CX11316	0	CX11276	HEY-058	0		20160408	CX				34.20111	-118.21198	Botanical garden zoo	Soil	soil					NA	A. Sivasundar	A. Sivasundar	2003-09-01	exact location in garden is unknown	isolated at Decanso Gardens	California	United States						
@@ -790,4 +790,4 @@ XZ1756	1	XZ1756				20180413	XZ				47.623232	-122.307318	Urban garden	Rotting fru
 XZ2018	1	XZ2018				20180413	XZ						Urban garden	NA	NA					NA	M. Ailion	M. Ailion	2016-10-01	only "fall 2016" provided	NA								
 XZ2019	1	XZ2019				20180413	XZ				47.636483	-122.305887	Urban garden	Rotting fruit	tomatoes					NA	M. Ailion	M. Ailion	2016-10-25	NA	tomato had thousands of worms of all growing stages.	Washington	United States						
 XZ2020	1	XZ2020				20180413	XZ				46.3	-120	Urban garden	Rotting fruit	partially rotten apple					NA	M. Ailion	A. Nassar	2016-10-01	Only month and year available	NA	Washington	United States						
-JU3318							JU				23.10675	102.74492	Agricultural land	Rotting flower	rotting water hyacinths					NA	M.-A. Félix	M.-A. Félix	2018-03-05		NA	Yunnan	China						
+JU3318							JU				23.10675	102.74492	Agricultural land	Rotting flower	rotting water hyacinths					NA	M.-A. Félix	M.-A. Félix	2018-03-05		NA	#NAME?	#NAME?						
