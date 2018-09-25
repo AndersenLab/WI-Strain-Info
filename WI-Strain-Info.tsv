@@ -626,7 +626,7 @@ NIC263	0	NIC256	NA	1		20160408	NIC				38.71829	-9.14875	Botanical garden zoo	Fru
 NIC265	1	NIC265	NA	1		20160408	NIC				38.71829	-9.14875	Botanical garden zoo	Flower	flowers, fruits, humus sample					NA	C. Braendle	C. Braendle	2012-12-02	NA	NA	Lisbon Metropolitan Area	Portugal			TRUE					
 NIC266	1	NIC266	NA	1		20160408	NIC				38.69237	-9.31592	Urban garden	Flower	flowers (grapes) from tree 					NA	C. Braendle	C. Braendle	2012-12-07	NA	Isolated in Jardim do Palacio do Marques de Pombal	Lisbon Metropolitan Area	Portugal			TRUE					
 NIC267	1	NIC267	NA	1		20160408	NIC				38.69237	-9.31592	Urban garden	Fruit	Orange fruits					NA	C. Braendle	C. Braendle	2012-12-07	NA	Isolated in Jardim do Palacio do Marques de Pombal	Lisbon Metropolitan Area	Portugal				TRUE				
-NIC268	1	NIC268	NA	1		20160408	NIC				38.69237	-9.31592	Urban garden	Fruit	Orange fruits 					NA	C. Braendle	C. Braendle	2012-12-07	NA	Isolated in Jardim do Palacio do Marques de Pombal	Lisbon Metropolitan Area	Portugal				TRUE				
+NIC268	1	NIC268	NA	1		20160408	NIC				38.69237	-9.31592	Urban garden	Fruit	Orange fruits 					NA	C. Braendle	C. Braendle	2012-12-07	NA	Isolated in Jardim do Palacio do Marques de Pombal		Portugal				TRUE				
 NIC269	1	NIC269	NA	1		20160408	NIC				38.69237	-9.31592	Urban garden	Fruit	Orange fruits					NA	C. Braendle	C. Braendle	2012-12-07	NA	Isolated in Jardim do Palacio do Marques de Pombal	Lisbon Metropolitan Area	Portugal				TRUE				
 NIC270	0	NIC267	NA	1		20160408	NIC				38.69237	-9.31592	Urban garden	Fruit	Orange fruits, litter, humus					NA	C. Braendle	C. Braendle	2012-12-07	NA	Isolated in Jardim do Palacio do Marques de Pombal	Lisbon Metropolitan Area	Portugal								
 NIC271	1	NIC271	NA	1		20160408	NIC				38.69237	-9.31592	Urban garden	Fruit	Magnolia fruits (woody)					NA	C. Braendle	C. Braendle	2012-12-07	NA	Isolated in Jardim do Palacio do Marques de Pombal	Lisbon Metropolitan Area	Portugal			TRUE					
@@ -801,3 +801,14 @@ JU1516							JU				48.7015	2.1725	Rural garden	Rotting fruit	apple						M.-A. F�
 JU1926							JU				49.1269	1.9595	Rural garden	Rotting stem	heracleum						M.-A. Félix	M.-A. Félix	2009-10-25			Île-de-France	France								
 JU1931							JU				49.1269	1.9595	Rural garden	Rotting stem	heracleum						M.-A. Félix	M.-A. Félix	2009-10-25			Île-de-France	France								
 JU1941							JU				48.7015	2.1725	Rural garden	Rotting fruit	apple						M.-A. Félix	M.-A. Félix	2009-10-09			Île-de-France	France								
+JU1516							JU				48.7015	2.1725	Agricultural land	Rotting fruit	apple					NA	M.-A. Félix	M.-A. Félix	2008-09-09	NA	NA	Île-de-France	France								
+JU1926							JU				49.1269	1.9595	Rural garden	Rotting stem	heracleum stem					NA	M.-A. Félix	M.-A. Félix	2009-10-25	NA	NA	Île-de-France	France								
+JU1931							JU				49.1269	1.9595	Rural garden	Rotting stem	heracleum stem					NA	M.-A. Félix	M.-A. Félix	2009-10-26	NA	NA	Île-de-France	France								
+JU1941							JU				48.7015	2.1725	Agricultural land	Rotting fruit	apple					NA	M.-A. Félix	M.-A. Félix	2009-10-09	NA	NA	Île-de-France	France								
+JU3318							JU				23.10675	102.74492	Rural garden	Rotting flower	water hyacinths					NA	M.-A. Félix	M.-A. Félix	2018-03-05	NA	NA	Yunnan	China								
+ECA1069							ECA				-34.89411879	-56.15794301	Rural garden	Rotting fruit	small rotting fruits	17				Plate5back.jpg, Plate5front.jpg	B. Rodriguez	U. Koziol and C. Martinez	2018-05-20	NA	NA	Montevideo Department	Uruguay								
+ECA1070							ECA				-34.8934668	-56.15637202	Rural garden	Rotting fruit	Butiá fruits	17				Plate6back.jpg, Plate6front.jpg	B. Rodriguez	U. Koziol and C. Martinez	2018-05-20	NA	NA	Montevideo Department	Uruguay								
+ECA1071							ECA				-34.8934668	-56.15637202	Rural garden	Rotting fruit	Butiá fruits	17				Plate7back.jpg, Plate7front.jpg	B. Rodriguez	U. Koziol and C. Martinez	2018-05-20	NA	NA	Montevideo Department	Uruguay								
+ECA1072							ECA				-34.8434	-56.1199	Rural garden	Rotting fruit	oranges	12				Plate8back.jpg, Plate8front.jpg	B. Rodriguez	U. Koziol and C. Martinez	2018-05-19	NA	NA	Montevideo Department	Uruguay								
+ECA1073							ECA				-34.8434	-56.1199	Rural garden	Rotting fruit	oranges	12				Plate9back.jpg, Plate9front.jpg	B. Rodriguez	U. Koziol and C. Martinez	2018-05-19	NA	NA	Montevideo Department	Uruguay								
+ECA1074							ECA				-34.89623486	-56.15625241	Rural garden	Rotting fruit	banana	14				Plate11back.jpg, Plate11front.jpg	B. Rodriguez	U. Koziol and C. Martinez	2018-05-22	NA	NA	Montevideo Department	Uruguay								
