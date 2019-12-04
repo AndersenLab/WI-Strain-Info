@@ -859,4 +859,14 @@ XZ2210							XZ				43.9439167	4.970805		Rotting fruit	rotting fig						M. Ailion
 XZ2211							XZ				22.1062554	-159.6718225	Mountain	Rotting fruit	red fruits						M. Ailion	M. Ailion	2018-08-31												
 XZ2212							XZ				22.1062554	-159.6718225	Mountain	Rotting fruit	red fruits						M. Ailion	M. Ailion	2018-08-31												
 XZ2213							XZ				22.1062554	-159.6718225	Mountain	Rotting fruit	red fruits						M. Ailion	M. Ailion	2018-08-31												
-ECA1385							ECA		C-4825	S-10094	20.039755	-155.44165	Forest	Fruit		21.9	24.3	n/a	78.5		Claire Buchanan	Stefan Zdraljevic	2019-09-06												
+ECA1385							ECA		C-4825	S-10094	20.039755	-155.44165	Forest	Fruit		21.9	24.3	n/a	78.5		C. Buchanan	S. Zdraljevic	2019-09-06												
+ECA1408			S-0078				ECA		C-0434	S-0078	22.129361	-159.654455	Forest	Fruit		22.9	23.61	59.5	72.5		C. Buchanan	C. Buchanan	2019-10-29		Dirty version of ECA1409										
+ECA1409			S-0078				ECA		C-0434	S-0078	22.129361	-159.654455	Forest	Fruit		22.9	23.61	59.5	72.5		C. Buchanan	C. Buchanan	2019-10-29		Clean version of ECA1408										
+ECA1412			S-0111				ECA		C-0431	S-0111	22.129316	-159.654434	Forest	Fruit		21.6	23.61	48	68.6		L. Stinson	C. Buchanan	2019-10-30		Dirty version of ECA1413										
+ECA1413			S-0111				ECA		C-0431	S-0111	22.129316	-159.654434	Forest	Fruit		21.6	23.61	48	68.6		L. Stinson	C. Buchanan	2019-10-30		Clean version of ECA1412										
+ECA1414			S-0117				ECA		C-0435	S-0117	22.12941	-159.654466	Forest	Soil		21.3	23.61	59.5	71.5		C. Buchanan	C. Buchanan	2019-10-29		Dirty version of ECA1415										
+ECA1415			S-0117				ECA		C-0435	S-0117	22.12941	-159.654466	Forest	Soil		21.3	23.61	59.5	71.5		C. Buchanan	C. Buchanan	2019-10-29		Clean version of ECA1414										
+ECA1388			S-0449				ECA		C-0432	S-0449	22.129373	-159.654449	Forest	Fruit		21.7	24.2	59.5	67.8		L. Stinson	C. Buchanan	2019-10-30		Dirty version of ECA1389										
+ECA1389			S-0449				ECA		C-0432	S-0449	22.129373	-159.654449	Forest	Fruit		21.7	24.2	59.5	67.8		L. Stinson	C. Buchanan	2019-10-30		Clean version of ECA1388										
+ECA1390			S-0450				ECA		C-0432	S-0450	22.129373	-159.654449	Forest	Fruit		21.7	24.2	59.5	67.8		L. Stinson	C. Buchanan	2019-10-30		Dirty version of ECA1391										
+ECA1391			S-0450				ECA		C-0432	S-0450	22.129373	-159.654449	Forest	Fruit		21.7	24.2	59.5	67.8		L. Stinson	C. Buchanan	2019-10-30		Clean version of ECA1390										
