@@ -55,7 +55,7 @@ ECA1070							ECA				-34.8934668	-56.15637202	Rural garden	Rotting fruit	Butiá 
 ECA1071							ECA				-34.8934668	-56.15637202	Rural garden	Rotting fruit	Butiá fruits	17				Plate7back.jpg, Plate7front.jpg	B. Rodriguez	U. Koziol and C. Martinez	2018-05-20	NA	NA	Montevideo Department	Uruguay								
 ECA1072							ECA				-34.8434	-56.1199	Rural garden	Rotting fruit	oranges	12				Plate8back.jpg, Plate8front.jpg	B. Rodriguez	U. Koziol and C. Martinez	2018-05-19	NA	NA	Montevideo Department	Uruguay								
 ECA1073							ECA				-34.8434	-56.1199	Rural garden	Rotting fruit	oranges	12				Plate9back.jpg, Plate9front.jpg	B. Rodriguez	U. Koziol and C. Martinez	2018-05-19	NA	NA	Montevideo Department	Uruguay								
-ECA1074							ECA				-34.89623486	-56.15625241	Rural garden	Rotting fruit	banana	14				Plate11back.jpg, Plate11front.jpg	B. Rodriguez	U. Koziol and C. Martinez	2018-05-22	NA	NA	Montevideo Department	Uruguay								
+ECA1074							ECA				-34.89623486	-56.15625241	Rural garden	Rotting fruit	banana	14				Plate11back.jpg, Plate11front.jpg	B. Rodriguez	U. Koziol and C. Martinez	2018-05-22	NA	NA	#NAME?	#NAME?								
 ECA1385							ECA		C-4825	S-10094	20.039755	-155.44165	Forest	Fruit		21.9	24.3	n/a	78.5		C. Buchanan	S. Zdraljevic	2019-09-06												
 ECA1388			S-0449				ECA		C-0432	S-0449	22.129373	-159.654449	Forest	Fruit		21.7	24.2	59.5	67.8		L. Stinson	C. Buchanan	2019-10-30		Dirty version of ECA1389										
 ECA1389			S-0449				ECA		C-0432	S-0449	22.129373	-159.654449	Forest	Fruit		21.7	24.2	59.5	67.8		L. Stinson	C. Buchanan	2019-10-30		Clean version of ECA1388										
@@ -330,10 +330,10 @@ JU1931							JU				49.1269	1.9595	Rural garden	Rotting stem	heracleum						M.-A.
 JU1931							JU				49.1269	1.9595	Rural garden	Rotting stem	heracleum stem					NA	M.-A. Félix	M.-A. Félix	2009-10-26	NA	NA	Île-de-France	France								
 JU1931							JU				49.1269	1.9595	Rural garden	Rotting stem	rotting Heracleum sphondylium stem 					NA	M.-A. Félix	M.-A. Félix	2009-10-25			Île-de-France	France								
 JU1934	1	JU1934	S106.1.1	1		20170531	JU				49.12604	1.95114	Forest	Rotting stem	rotting Heracleum stem S106 					NA	M.-A. Félix	M.-A. Félix	2009-10-25	NA	NA	Île-de-France	France						TRUE		
-JU1941							JU				48.7015	2.1725	Rural garden	Rotting fruit	apple						M.-A. Félix	M.-A. Félix	2009-10-09			Île-de-France	France								
+JU1941							JU				48.7015	2.1725	Rural garden	Rotting fruit	apple						M.-A. Félix	M.-A. Félix	2009-10-09			#NAME?	#NAME?								
 JU1941							JU				48.7015	2.1725	Agricultural land	Rotting fruit	apple					NA	M.-A. Félix	M.-A. Félix	2009-10-09	NA	NA	Île-de-France	France								
 JU1941							JU				48.7015	2.1725	Agricultural land	Rotting fruit	rotting apple					NA	M.-A. Félix	M.-A. Félix	2009-10-09			Île-de-France	France								
-JU1960	0	CB4858	NA	1		20170531	JU				34.18973	-118.131319	Urban garden	Compost	compost in the same garden in Altadena as PS2025					NA	J. DeModena	J. DeModena	2008-11-30		NA	California	United States								
+JU1960	0	CB4858	NA	1		20170531	JU				34.18973	-118.131319	Urban garden	Compost	compost in the same garden in Altadena as PS2025					NA	J. DeModena	J. DeModena	2008-11-30		NA	#NAME?	#NAME?								
 JU2001	1	JU2001	NA	1		20160408	JU				-21.1	55.5	Forest	Rotting flower	rotting flower					NA	T. Bélicard	T. Bélicard	2010-09-01	only month/year (September 2010) is known	Sampled in La Réunion in Sep 2010 by Tony Belicard	Saint-Benoît	Reunion			TRUE					
 JU2007	1	JU2007	NA	1		20160408	JU				50.7608	-1.32413	Rural garden	Rotting fruit	rotting fruit, apple					NA	M. Barkoulas	M. Barkoulas	2010-10-16	NA	Wild strain isolated by Michalis Barkoulas in Cowes, Isle of Wight, UK from rotten apples. Oct 2010	England	United Kingdom		TRUE						
 JU2016	1	JU2016	SF4.2	1		20170531	JU				37.757593	-122.463177	Urban garden	Rotting fruit	rotting fruit, pumpkin					NA	M.-A. Félix	C. Nelson	2010-11-01	only month/year (November 2010) is known, but we know it was late November	Isolated from rotten pumpkin sampled by Christopher Nelson in White Crane Garden, San Francisco, USA, in late November 2010	California	United States						TRUE		
@@ -474,8 +474,8 @@ JU3401							JU				49.12161	1899-12-31	Forest	Rotting stem	rotting Tussilago ste
 JU3402							JU				49.12165	1.95101	Forest	Rotting stem	rotting stem (Asteraceae) 						M.-A. Félix	M.-A. Félix	2014-09-30	NA	NA	Île-de-France	France								
 JU3402							JU				49.12165	1.95101	Forest	Rotting stem	rotting stem (Asteraceae) 					NA	M.-A. Félix	M.-A. Félix	2014-09-30			Île-de-France	France								
 JU3402							JU				49.12165	1899-12-31	Forest	Rotting stem	rotting stem (Asteraceae) 					NA	M.-A. Félix	R. Luallen, P. Phillips and M.-A. Félix	2014-09-30												
-JU3403							JU				49.12167	1.95101	Forest	Rotting stem	rotting Symphytum stem						M.-A. Félix	M.-A. Félix	2014-09-30	NA	NA	Île-de-France	France								
-JU3403							JU				49.12167	1.95101	Forest	Rotting stem	rotting Symphytum stem					NA	M.-A. Félix	M.-A. Félix	2014-09-30			Île-de-France	France								
+JU3403							JU				49.12167	1.95101	Forest	Rotting stem	rotting Symphytum stem						M.-A. Félix	M.-A. Félix	2014-09-30	NA	NA	#NAME?	#NAME?								
+JU3403							JU				49.12167	1.95101	Forest	Rotting stem	rotting Symphytum stem					NA	M.-A. Félix	M.-A. Félix	2014-09-30			#NAME?	#NAME?								
 JU3403							JU				49.12167	1899-12-31	Forest	Rotting stem	rotting Symphytum stem					NA	M.-A. Félix	R. Luallen, P. Phillips and M.-A. Félix	2014-09-30												
 JU342	0	JU323	D4.1	0		20160408	JU				44.42	4.4	Rural garden	Snail	live mollusks, snail					NA	M.-A. Félix	M.-A. Félix	2002-09-08	NA	Merlet, Lagorce (Ardèche), France. 8 Sep 02. Wash from the snail tube (mulberry tree).	Rhone-Alpes	France								
 JU345	0	JU346	G1.3	1		20170531	JU				44.42	4.4	Rural garden	Millipede	live arthropod, Glomeris					NA	M.-A. Félix	M.-A. Félix	2002-09-08	NA	Merlet, Lagorce (Ardèche), France. 8 Sep 02. From a Glomeris myriapod in the compost pile (same myriapod as JU343, JU344, JU346).	Rhone-Alpes	France								
